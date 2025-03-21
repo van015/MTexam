@@ -1,7 +1,6 @@
 // Ulat, Van Remlee
 let age = Number(prompt("Enter your age:"));
 
-// Ulat, Van Remlee
 let category;
 if (age < 5) {
     category = "Toddler (under 5 years)";
